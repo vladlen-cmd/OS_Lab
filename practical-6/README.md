@@ -1,4 +1,4 @@
-# Save your file as fcfs.c
+# Save your file as sjf.c
 ```bash 
 gcc sjf.c -o sjf
 ./sjf
