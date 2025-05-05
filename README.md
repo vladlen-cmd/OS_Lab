@@ -1,4 +1,3 @@
-# OS_Lab
 # Operating Systems Lab Practicals (Session 2024-25)
 
 ## Overview
