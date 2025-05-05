@@ -2,7 +2,7 @@
 # Operating Systems Lab Practicals (Session 2024-25)
 
 ## Overview
-This document outlines the practicals performed in the **Operating Systems (OS) Lab** for the academic session **2024-25**. The primary objective of the lab work was to help students gain hands-on experience in understanding various core concepts of operating systems, such as process management, memory management, scheduling algorithms, file systems, and more.
+This document outlines the practicals performed in the **Operating Systems (OS) Lab** for the academic session **2024-25**. The primary objective of the lab work was to help me gain hands-on experience in understanding various core concepts of operating systems, such as process management, memory management, scheduling algorithms, file systems, and more.
 
 The following practicals were performed during the session:
 
