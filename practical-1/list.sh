@@ -1,0 +1,14 @@
+ls 
+-a 
+-l 
+-h 
+-R 
+-S 
+-t 
+-r 
+-i 
+-n 
+-F 
+-X 
+-1 
+--color=auto
