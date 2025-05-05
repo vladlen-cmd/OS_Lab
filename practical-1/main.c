@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -26,8 +25,6 @@ void printList(struct Node* head) {
         head = head->next;
     }
 }
-
-
 
 int main() {
     struct Node* head = createNode(10);
